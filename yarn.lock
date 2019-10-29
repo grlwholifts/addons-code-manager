@@ -4791,7 +4791,7 @@ core-js-pure@^3.0.1:
   resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.2.1.tgz#879a23699cff46175bfd2d09158b5c50645a3c45"
   integrity sha512-+qpvnYrsi/JDeQTArB7NnNc2VoMYLE1YSkziCDHgjexC2KH7OFiGhLUd3urxfyWmNjSwSW7NYXPWHMhuIJx9Ow==
 
-core-js@3.2.1, core-js@^3.0.1, core-js@^3.0.4, core-js@^3.1.4:
+core-js@3.2.1, core-js@^3.0.1, core-js@^3.0.4:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.2.1.tgz#cd41f38534da6cc59f7db050fe67307de9868b09"
   integrity sha512-Qa5XSVefSVPRxy2XfUC13WbvqkxhkwB3ve+pgCQveNgYzbM/UxZeu1dcOX/xr4UmfUd+muuvsaxilQzCyUurMw==
@@ -12712,13 +12712,12 @@ react-dev-utils@^9.1.0:
     strip-ansi "5.2.0"
     text-table "0.2.0"
 
-react-diff-view@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/react-diff-view/-/react-diff-view-2.2.0.tgz#b5b10126c9d24e462a296fdeb94e612e477ea1bb"
-  integrity sha512-1Oq0lhkjE3pitgyH2Mwpufm5Gu/8dMILIpEgjSsDvt4shcrfR12+BgyugZ+lyHA2Qhbmu7UByNEnsd/nYeU8fA==
+react-diff-view@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/react-diff-view/-/react-diff-view-2.3.0.tgz#ed80b0ccc3340aece085f6f6d2e935afc24e0e9b"
+  integrity sha512-HjfJ/zt1aOGaf43JjVjrqk256ZEiZZyw54o4Rl4gYdKIr2IQbvG4Ucn9wIZJhMejaJpG14cg41Ei0VZUJXF0XQ==
   dependencies:
     classnames "^2.2.6"
-    core-js "^3.1.4"
     diff-match-patch "^1.0.4"
     recompose "^0.30.0"
     shallow-equal "^1.2.0"
